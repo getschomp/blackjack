@@ -6,7 +6,6 @@ class Card
     @value = value
   end
 
-
 end
 
 # def initialize(suit, value)
